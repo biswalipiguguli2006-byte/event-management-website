@@ -1,2 +1,2 @@
 # event-management-website
-turning moments into memories with us
+turn moments into memories with us
